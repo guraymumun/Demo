@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="connect">Connect</string>
+    <string name="connect_and_get_image">Connect to server and get image</string>
+    <string name="closed_server">Server is closed. Please try again!</string>
+    <string name="site_local_address">Site Local Address: %s</string>
+    <string name="port">Port: %d</string>
+    <string name="empty_connected_list_text">You can only send image to connected clients. There are no connected clients yet.\nPlease wait until at least one is connected.\nConnected clients will appear in the list below the button \"Connect to server and get image\".</string>
+    <string name="server_information_text">To send an image, please select one of the connected clients</string>
+</resources>
